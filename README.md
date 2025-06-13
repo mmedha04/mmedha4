@@ -1,5 +1,6 @@
  Hi, I'm Medha and I'm a computer engineering student @ UIUC
 I'm interested in full-stack dev, data-driven sustainability, health tech, cybersecurity, and quantitative development.
+
 💻 Currently building: Options Volatility Tracker With Market Signal Flags
 
 📌 Featured Projects:
